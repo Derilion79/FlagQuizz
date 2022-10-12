@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android Fun With Flags</string>
+    <string name="action_settings">Настрйоки</string>
+    <string name="number_of_choices">Номер выбора</string>
+    <string name="number_of_choices_description">Показать 2, 4, 6 или 8 кнопки выбора</string>
+    <string name="world_regions">Регионы</string>
+    <string name="world_regions_description">Регионы включенные в викторину</string>
+    <string name="guess_country">Выбранные страны</string>
+    <string name="results">%1$d попыток, %2$.02f%% правильно</string>
+    <string name="incorrect_answer">Неправильно!</string>
+    <string name="default_region_message">
+        Один регион должен быть выбран обязательно. Европа выбрана по стандарту.
+    </string>
+    <string name="restarting_quiz">Викторина перезапустится с новыми настройками</string>
+    <string name="question">Вопросы %1$d из %2$d</string>
+    <string name="reset_quiz">Начать сначала</string>
+    <string name="image_description">Картинка текущего флага в викторине</string>
+    <string name="default_region">Европа</string>
+    <string name="title_activity_settings">Настройки</string>
+</resources>
